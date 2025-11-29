@@ -1,3 +1,4 @@
 # myrepository-demo
-This is my first repository
-author-Smriti Kaushal
+This is my first repository.
+<br>
+author-Smriti Kaushal.
